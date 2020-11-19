@@ -3,4 +3,4 @@
 ### Aprendizado
 * Html, conceito de conteiner
 * Css, Grid flex box
-*Js, integração com jquery e uso da bib Owl para renderizar um efeito carrosel de banners.
+* Js, integração com jquery e uso da bib Owl para renderizar um efeito carrosel de banners.
