@@ -10,6 +10,7 @@
 body{
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif; 
+    color: white;
 }
 header .container{
     display: flex;
@@ -24,7 +25,6 @@ header .logo{
 }
 header nav a{
     text-decoration: none;
-    font-style: inherit;
     color: #AAA;
     margin-right: 10px;
 }
@@ -33,4 +33,12 @@ header nav a:hover{
    
     color: #fff;
     
+}
+/*flme princiaoal */
+.filme-principal{
+    font-size: 16px;
+    color:whitesmoke;
+    background: url('../img/capa.jpg');
+    height: 600px;
+    background-size: cover;
 }
