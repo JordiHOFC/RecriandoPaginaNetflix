@@ -69,11 +69,17 @@ header nav a:hover{
     color: black;
 }
 .botao .i{
-    margin-right: 8px;
+    margin-right: 10px;
 }
 .container{
     margin-left: 20px;
 }
 .filme-principal .container{
     width: 60%;
+}
+.box-filme{
+    height: 60%;
+    width: 60%;
+    display: block;
+
 }
